@@ -7,12 +7,13 @@
 	height: 250px;
 	border-size: border-box;
 }
-.row div {
+.row >div {
 background-color: yellow;
 	border: 5px solid black;
 	width: 100px;
 	height: 70px;
 	border-size: border-box;
+	align-content: right;
 
 }
 
