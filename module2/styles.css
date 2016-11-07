@@ -3,8 +3,6 @@
 .row > div {
 	background-color: yellow;
 	border: 10px solid black;
-	width: 1000px;
-	height: 200px;
 	border-size: border-box;
 }
 .new >div {
