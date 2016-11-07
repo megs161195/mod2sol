@@ -6,10 +6,8 @@
 	width: 500px;
 	height: 250px;
 	border-size: border-box;
-	margin-right: 50px;
-	padding: 20px;
 }
-.row> div{
+.row div{
 background-color: yellow;
 	border: 5px solid black;
 	width: 100px;
