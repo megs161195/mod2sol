@@ -7,7 +7,14 @@
 	height: 250px;
 	border-size: border-box;
 }
+.new > h2 {
+background-color: yellow;
+	border: 5px solid black;
+	width: 100px;
+	height: 70px;
+	border-size: border-box;
 
+}
 
 	h1 {
 		text-align: center;
