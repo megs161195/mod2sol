@@ -3,7 +3,7 @@
 .row h2 h3 {
 	background-color: green;
 	border: 10px solid black;
-	width: 300px;
+	width: 500px;
 	height: 250px;
 	border-size: border-box;
 }
