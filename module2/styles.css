@@ -1,12 +1,12 @@
 
 
 .row div {
-	background-color: green;
+	background-color: blue;
 	border: 10px solid black;
-	width: 150px;
-	height: 100px;
+	width: 100px;
+	height: 80px;
 	border-size: border-box;
-	padding: 20px;
+	padding: 10px;
 	
 }
 .row nav{
