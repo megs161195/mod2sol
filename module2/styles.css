@@ -1,6 +1,6 @@
 
 
-.row nav {
+.row div {
 	background-color: green;
 	border: 10px solid black;
 	width: 500px;
@@ -9,7 +9,7 @@
 	padding: 20px;
 	margin-right: 50px;
 }
-.row div{
+.row nav{
 background-color: yellow;
 	border: 5px solid black;
 	width: 100px;
