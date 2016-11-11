@@ -3,8 +3,8 @@
 .row div {
 	background-color: blue;
 	border: 10px solid black;
-	width: 250px;
-	height: 100px;
+	width: 400px;
+	height: 200px;
 	border-size: border-box;
 	padding: 10px;
 	
