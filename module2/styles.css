@@ -1,6 +1,6 @@
 
 
-.row <div{
+.row div{
 	background-color: blue;
 	border: 10px solid black;
 	width: 400px;
@@ -15,6 +15,7 @@ background-color: yellow;
 	width: 100px;
 	height: 70px;
 	border-size: border-box;
+	float : left;
 	
 
 }
