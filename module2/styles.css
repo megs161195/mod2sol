@@ -7,7 +7,7 @@
 	height: 300px;
 	border-size: border-box;
 	padding: 0px 25px 0px 0px;
-	float: right;
+
 	
 }
 .row div{
@@ -17,10 +17,12 @@ background-color: yellow;
 	height: 70px;
 	border-size: border-box;
 
-	
-
-}
+	}
 
 	h1 {
 		text-align: center;
+	}
+
+	div {
+		float: right;
 	}
