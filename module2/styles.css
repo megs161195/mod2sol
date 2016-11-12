@@ -18,6 +18,7 @@ background-color: yellow;
 	border-size: border-box;
 	padding: 0px 25px 0px 0px;
 	float: right;
+	clear: left;
 	}
 
 	h1 {text-align: center;	}
