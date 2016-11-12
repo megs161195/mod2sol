@@ -7,7 +7,6 @@
 	height: 300px;
 	border-size: border-box;
 	padding: 0px 25px 0px 0px;
-
 	
 }
 .row div{
@@ -17,6 +16,7 @@ background-color: yellow;
 	height: 70px;
 	border-size: border-box;
 	padding: 0px 25px 0px 0px;
+	float: right;
 
 	}
 
