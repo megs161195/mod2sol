@@ -2,12 +2,12 @@
 
 .row div{
 	background-color: blue;
-	border: 10px solid black;
+	border: 5px solid black;
 	width: 350px;
 	height: 300px;
 	border-size: border-box;
 	padding: 0px 25px 0px 0px;
-	float: right;
+	margin-right: 15px;
 }
 .row nav{
 background-color: yellow;
@@ -15,7 +15,8 @@ background-color: yellow;
 	width: 100px;
 	height: 70px;
 	border-size: border-box;
-	padding: 0px 25px 0px 0px
+	padding: 0px 25px 0px 0px;
+	float: right;}
 
 	h1 {text-align: center;	}
 
