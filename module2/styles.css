@@ -1,27 +1,22 @@
 
 
-.row nav{
+.row div{
 	background-color: blue;
 	border: 10px solid black;
 	width: 350px;
 	height: 300px;
 	border-size: border-box;
 	padding: 0px 25px 0px 0px;
-	
+	float: right;
 }
-.row div{
+.row nav{
 background-color: yellow;
 	border: 5px solid black;
 	width: 100px;
 	height: 70px;
 	border-size: border-box;
-	padding: 0px 25px 0px 0px;
-	float: right;
+	padding: 0px 25px 0px 0px
 
-	}
-
-	h1 {
-		text-align: center;
-	}
+	h1 {text-align: center;	}
 
 	
