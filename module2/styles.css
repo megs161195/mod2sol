@@ -2,9 +2,8 @@
 .row div{
 	background-color: silver;
 	border: 3px solid black;
-	width: 350px;
-	height: 200px;
 	border-size: border-box;
+	height: 250px;
 	margin: 15px;
 	margin-top: 30px;
 	float: left;
