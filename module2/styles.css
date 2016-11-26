@@ -24,12 +24,12 @@
 	h1 {text-align: center;	}
 
 	#no1 {background-color: yellow;}
+	#no2 {background-color: grey;}
+	#no3 {background-color: green;}
 
 	.style
 	{
-		font-family: Arial;
+		font-family: Arial solid black;
 		color: 0000ff;
 		font-size: 30px;
-		text-align: center;
-
 	}
