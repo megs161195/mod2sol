@@ -27,4 +27,7 @@
 	#no3 {background-color: violet;}
 
 
-	
+	.style div
+	{
+		outline-offset: 100px;
+	}
