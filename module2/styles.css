@@ -13,15 +13,17 @@
 
 }
 .row nav{
-background-color: yellow;
 	border: 1px solid black;
 	width: 100px;
 	height: 70px;
 	border-size: border-box;
 	float: left;
+	padding: 15px 25px 0px 0px;
 	}
 
 	h1 {text-align: center;	}
+
+	#no1 {background-color: yellow;}
 
 	.style
 	{
