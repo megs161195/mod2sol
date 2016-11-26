@@ -20,7 +20,6 @@
 	padding: 0px 15px 0px 0px;
 	text-align: center;
 	float: left;
-	float: top;
 	margin-left: 220px;
 	
 	}
@@ -33,8 +32,9 @@
 
  .style div
  {
- 	margin-top: 100px;
- 	padding-top: 100px;
+ 	margin-bottom: 100px;
+ 	float: top;
+ 	color: blue;
  }
 
 	
