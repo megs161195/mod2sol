@@ -2,25 +2,32 @@
 
 .row div{
 	background-color: blue;
-	border: 5px solid black;
+	border: 1px solid black;
 	width: 350px;
 	height: 300px;
 	border-size: border-box;
 	padding: 0px 25px 0px 0px;
 	margin-right: 15px;
 	float: left;
+    
+
 }
 .row nav{
 background-color: yellow;
-	border: 5px solid black;
+	border: 1px solid black;
 	width: 100px;
 	height: 70px;
 	border-size: border-box;
-	padding: 0px 25px 0px 0px;
-	float: right;
-	clear: left;
+	float: left;
 	}
 
 	h1 {text-align: center;	}
 
-	
+	.style
+	{
+		font-family: Arial;
+		color: 0000ff;
+		font-size: 24px;
+		text-align: center;
+
+	}
