@@ -27,5 +27,5 @@
 	#no3 {background-color: violet;}
 
 p 
-{position: relative;
-top: 80px;}
+{position: absolute;
+top: 20px;}
