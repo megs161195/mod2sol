@@ -1,4 +1,9 @@
 
+.style div 
+	{
+	margin-top: 100px;
+	color: green;
+	}
 
 .row div{
 	background-color: silver;
@@ -27,11 +32,7 @@
 	#no2 {background-color: pink;}
 	#no3 {background-color: violet;}
 
-	.style div 
-	{
-	margin-top: 100px;
-	}
-
+	
  
 
 	
