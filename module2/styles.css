@@ -29,5 +29,6 @@
 
 	.style div
 	{
-		outline-offset: 100px;
+		position: relative;
+		top: 100px;
 	}
