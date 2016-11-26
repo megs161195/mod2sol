@@ -11,7 +11,8 @@
 	
 	   }
 .row nav{
-	border: 3px solid black;
+	border-left:3px solid black;
+	border-bottom: 3px solid black;
 	width: 100px;
 	height: 40px;
 	border-size: border-box;
