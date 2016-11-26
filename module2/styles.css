@@ -1,9 +1,9 @@
 
 .row div{
 	background-color: silver;
-	border: 1px solid black;
+	border: 3px solid black;
 	width: 350px;
-	height: 300px;
+	height: 200px;
 	border-size: border-box;
 	margin: 15px;
 	margin-top: 30px;
@@ -11,12 +11,12 @@
 	
 	   }
 .row nav{
-	border: 1px solid black;
+	border: 3px solid black;
 	width: 100px;
-	height: 70px;
+	height: 40px;
 	border-size: border-box;
 	text-align: center;
-	margin-left: 225px;
+	margin-left: 230px;
 	float: left;
 	}
 
