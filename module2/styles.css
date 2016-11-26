@@ -7,11 +7,10 @@
 	height: 300px;
 	border-size: border-box;
 	padding: 0px 25px 0px 0px;
-	margin:15px
+	margin:15px;
 	float: right;
-	    
-
-}
+	
+	   }
 .row nav{
 	border: 1px solid black;
 	width: 70px;
@@ -19,7 +18,7 @@
 	border-size: border-box;
 	padding: 0px 25px 0px 0px;
 	text-align: center;
-	float: right;
+	float: left;
 	margin: 15px;
 	
 	}
