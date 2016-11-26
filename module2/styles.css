@@ -26,9 +26,6 @@
 	#no2 {background-color: pink;}
 	#no3 {background-color: violet;}
 
-
-	.style div
-	{
-		position: relative;
-		top: 100px;
-	}
+p 
+{position: relative;
+top: 100px;}
