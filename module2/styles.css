@@ -1,7 +1,7 @@
 
 
 .row div{
-	background-color: blue;
+	background-color: grey;
 	border: 1px solid black;
 	width: 350px;
 	height: 300px;
@@ -19,7 +19,7 @@
 	width: 100px;
 	height: 70px;
 	border-size: border-box;
-	padding: 15px 25px 0px 0px;
+	padding: 0px 25px 30px 30px;
 	text-align: center;
 	float: left;
 	margin: 25px;
@@ -28,7 +28,7 @@
 	h1 {text-align: center;	}
 
 	#no1 {background-color: yellow;}
-	#no2 {background-color: grey;}
+	#no2 {background-color: red;}
 	#no3 {background-color: green;}
 
 	.style
