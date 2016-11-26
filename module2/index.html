@@ -8,17 +8,22 @@
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
 <link rel="stylesheet" href="styles.css">	
 <style> 
-body {
-	max-width: 100%;
-	float: left;
-}
+.row 
+{width: 100%;}
+
+@media (min-width: 1050px)
+{ .col-lg-1, .col-lg-2, .col-lg-3 {float: left;}
+.col-lg-1 {width: 50%;}
+.col-lg-2 {width: 50%;}
+.col-lg-3 {width: 100%;}}
+
 @media only screen and (max-width: 991px) and  (min-width: 768px){
-.col-sm-4 {
-	max-width: 50%;
+.col-md-1, .col-md-2, .col-md-3 {
 	float: left;
 }
-
-
+.col-md-1 {width: 50%;}
+.col-md-2 {width: 50%;}
+.col-md-3 {width: 100%;}}
 
 </style>
 </head>
@@ -27,17 +32,17 @@ body {
 <h1>Our menu</h1>
 <div class="container-fluid">
     <div class="row">
-             <div class="col-sm-4"> 
+             <div class="col-md-4 col-lg-6"> 
              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut egestas at ligula vitae consequat. Suspendisse potenti. In at dignissim metus, eget cursus est</p>
-             <nav class="col-sm-12" id="no1">chicken</nav></div>
+             <nav class="col-md-12" id="no1">chicken</nav></div>
 
-             <div class="col-sm-4"> 
+             <div class="col-md-4 col-lg-6 "> 
                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut egestas at ligula vitae consequat. Suspendisse potenti.in       dignissim metus, eget cursus est</p>
-                     <nav class="col-sm-12" id="no2">beef</nav></div>
+                     <nav class="col-md-12" id="no2">beef</nav></div>
  
-                     <div class="col-sm-4">
+                     <div class="col-md-4 col-lg-6">
                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut egestas at ligula vitae consequat. Suspendisse potenti. In at dignissim metus, eget cursus est</p>
-                  <nav class="col-sm-12" id="no3">fish</nav>
+                  <nav class="col-md-12" id="no3">fish</nav>
                </div>    
 
 </div> </div>
