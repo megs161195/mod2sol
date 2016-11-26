@@ -7,7 +7,7 @@
 	height: 300px;
 	border-size: border-box;
 	padding: 0px 25px 0px 0px;
-	margin:15px;
+	margin-top: 100px;
 	float: left;
 	
 	   }
@@ -16,10 +16,10 @@
 	width: 70px;
 	height: 50px;
 	border-size: border-box;
-	padding: 0px 25px 0px 0px;
+	padding: 0px 15px 0px 0px;
 	text-align: center;
 	float: left;
-	margin-top: 10px;
+	margin-top: 5px;
 	margin-left: 250px;
 	
 	}
