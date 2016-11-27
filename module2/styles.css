@@ -26,3 +26,9 @@
 	float: left;
 	
 	   }
+
+	   p
+	   {position: absolute;
+	   	margin-top: 75px;
+	   	margin-left: auto;
+	   	margin-right: auto;}
