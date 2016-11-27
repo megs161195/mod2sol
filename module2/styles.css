@@ -1,14 +1,4 @@
 
-.row div{
-	background-color: silver;
-	border: 3px solid black;
-	border-size: border-box;
-	height: 200px;
-	margin-top: 30px;
-	margin-left: 15px;
-	float: left;
-	
-	   }
 .row nav{
 	border-left:3px solid black;
 	border-bottom: 3px solid black;
