@@ -16,3 +16,13 @@
 	#no2 {background-color: pink;}
 	#no3 {background-color: violet;}
 
+.row div{
+	background-color: silver;
+	border: 3px solid black;
+	border-size: border-box;
+	height: 200px;
+	margin-top: 30px;
+	margin-left: 15px;
+	float: left;
+	
+	   }
