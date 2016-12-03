@@ -23,6 +23,7 @@
 	border-size: border-box;
 	margin-left: 15px;
 	overflow: hidden;
+	white-space: nowrap;
 
 	   }
 
@@ -32,6 +33,7 @@
 	   	margin-left: auto;
 	   	margin-right: auto;
 	   	clear: right;
+	   	white-space: nowrap;
 	   	}
 
 @media (min-width: 992px){.col-lg-1, .col-lg-2, .col-lg-3 {float: left;}
