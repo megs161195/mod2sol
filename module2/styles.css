@@ -6,7 +6,7 @@
 	border-size: border-box;
 	text-align: center;
 	float: right;
-	position: absolute;
+	position: relative;
 		}
 
 	h1 {text-align: center;	}
