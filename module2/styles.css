@@ -6,7 +6,6 @@
 	border-size: border-box;
 	text-align: center;
 	float: right;
-	position: relative;
 		}
 
 	h1 {text-align: center;	}
@@ -23,6 +22,7 @@
 	border-size: border-box;
 	margin-left: 15px;
 	overflow: hidden;
+	position: absolute;
 
 	   }
 
