@@ -6,12 +6,13 @@
 	border-size: border-box;
 	text-align: center;
 	float: right;
+	position: absolute;
 		}
 
 	h1 {text-align: center;	}
 
 	#no1 {background-color: yellow;}
-	#no2 {background-color: pink;}
+	#no2 {background-color: red;}
 	#no3 {background-color: violet;}
 
 .row div{
@@ -27,6 +28,7 @@
 
 	   p
 	   {
+
 	   	padding: 10px 10px 10px 10px;
 	   	margin-top: 75px;
 	   	margin-left: auto;
