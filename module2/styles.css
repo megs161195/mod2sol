@@ -21,17 +21,18 @@
 	margin-top: 30px;
 	border-size: border-box;
 	margin-left: 15px;
+	position: absolute;
 	
 
 	   }
 
 	   p
 	   {
-        position: absolute;
+ 
 	   	padding: 10px 10px 10px 10px;
+	   	margin-top: 75px;
 	   	margin-left: auto;
 	   	margin-right: auto;
-	   	overflow: hidden;
 	   	clear: right;
 	 
 
