@@ -22,7 +22,6 @@
 	float: left;
 	border-size: border-box;
 	margin-left: 15px;
-	overflow: hidden;
 	white-space: nowrap;
 
 	   }
@@ -32,7 +31,6 @@
 	   	margin-top: 75px;
 	   	margin-left: auto;
 	   	margin-right: auto;
-	   	clear: right;
 	   	white-space: nowrap;
 	   	}
 
